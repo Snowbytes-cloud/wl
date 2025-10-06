@@ -6,5 +6,6 @@ return {
     "Dragomborn13",
     "DumitreLZ3990",
     "XxnesabusXx",
-    "gabrielrodrigues176"
+    "gabrielrodrigues176",
+    "Otavi0Robl0x"
 }
